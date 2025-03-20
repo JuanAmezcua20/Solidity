@@ -1,6 +1,6 @@
 Welcome to My GitHub Portfolio!
 About Me
-Hi! I'm Astro, a passionate game developer and entrepreneur with over four years of experience creating innovative games through my independent studio, TotalandTiger Game Studios. My work combines creativity, technical expertise, and a dedication to delivering engaging gaming experiences.
+Hi! I'm Juan, a passionate game developer and entrepreneur with over four years of experience creating innovative games through my independent studio, TotalandTiger Game Studios. My work combines creativity, technical expertise, and a dedication to delivering engaging gaming experiences.
 
 My Work
 Key Projects:
