@@ -17,7 +17,7 @@ Each project reflects my growth as a game designer and my ability to deliver imp
 Skills & Technologies
 Game Engines: Unreal Engine, Unity
 
-Programming Languages: Python, C++, JavaScript
+Programming Languages: Python, C++ for Unreal Engine.
 
 Blockchain Development: ERC20, ERC721 smart contracts
 
